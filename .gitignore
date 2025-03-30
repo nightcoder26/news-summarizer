@@ -1,0 +1,20 @@
+# 🚨 API Keys & Config Files
+config.py
+.env
+
+# 🚀 Python Cache & Virtual Environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+venv/
+env/
+
+# 📦 Dependencies
+*.log
+*.sqlite3
+*.db
+
+# 🔹 VS Code & OS-specific Files (optional)
+.vscode/
+.DS_Store
